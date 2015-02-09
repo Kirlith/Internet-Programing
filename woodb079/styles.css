@@ -1,0 +1,21 @@
+table#Assignment1Table {
+    width:100%;
+    background-color:lightgrey;
+    border: 1px solid black;
+    border-collapse: collapse;
+    }
+th {
+    text-align:center;
+    border: 1px solid black;
+    border-collapse: collapse;
+    }
+td {
+    text-align:center;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+td.Name {font-weight:bold}
+td.Times {font-style:italic}
+h2 {
+    text-align: center;
+}
